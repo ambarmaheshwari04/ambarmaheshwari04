@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Ambar Maheshwari! 👋
 
-<!--
-**ambarmaheshwari04/ambarmaheshwari04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🚀 I am a passionate learner currently diving deep into **Web Development**.
+- 🛠️ Building my foundations with clean code and responsive layouts.
+- 💡 Excited about turning logic into interactive user interfaces.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Tools & Platforms:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Upcoming Projects
+- ⏳ **Project 1:** [⏳ Simon Says Game — An interactive memory-based JavaScript game.]
+- ⏳ **Project 2:** [⏳ Todo Application — A task management app built using vanilla JS and DOM manipulation] 
+- ⏳ **Project 3:** [⏳ Calculator App — A fully functional web calculator built with HTML, CSS, and JavaScript, capable of handling basic arithmetic operations.] 
+
+---
+
+### 📫 Connect with me
+- 📧 Email: [ambarmaheshwari04@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/ambar-maheshwari-097882316]
