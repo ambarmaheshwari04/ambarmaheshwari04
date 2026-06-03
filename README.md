@@ -10,7 +10,8 @@
 - **Tools & Platforms:** Git, GitHub, VS Code
 
 ### 📁 Upcoming Projects
-- ⏳ **Project 1:** [⏳ Simon Says Game — An interactive memory-based JavaScript game.]
+- ⏳ **Project 1:** 🎮 **[Simon Says Game (Live Play)](https://ambarmaheshwari04.github.io/simon-says-game/)** *An interactive memory-based JavaScript game.*
+-
 - ⏳ **Project 2:** [⏳ Todo Application — A task management app built using vanilla JS and DOM manipulation] 
 - ⏳ **Project 3:** [⏳ Calculator App — A fully functional web calculator built with HTML, CSS, and JavaScript, capable of handling basic arithmetic operations.] 
 
