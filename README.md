@@ -9,11 +9,12 @@
 - 💻 **Languages:** HTML5, CSS3, JavaScript (ES6+)
 - 🔧 **Tools & Platforms:** Git, GitHub, VS Code
 
-## 🚀 Upcoming Projects
+## 🚀 Beginner Projects
 
 - 🎮 **[Project 1: Simon Says Game](https://ambarmaheshwari04.github.io/simon-says-game/)** - An interactive memory-based JavaScript game.
 - 🧮 **[Project 2: Calculator App](https://ambarmaheshwari04.github.io/simple-calculator/)** - A fully functional web calculator built with HTML, CSS, and JavaScript.
-- 📝 **Project 3: Todo Application** - A task management app built using vanilla JS and DOM manipulation.
+- 🔐 **[Project 3: Password Generator](https://ambarmaheshwari04.github.io/password-generator/)** - A secure and stylish password generator built using HTML, CSS, and modern JavaScript.
+-
 
 ---
 
