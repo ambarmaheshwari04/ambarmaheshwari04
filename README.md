@@ -14,8 +14,7 @@
 - 🎮 **[Project 1: Simon Says Game](https://ambarmaheshwari04.github.io/simon-says-game/)** - An interactive memory-based JavaScript game.
 - 🧮 **[Project 2: Calculator App](https://ambarmaheshwari04.github.io/simple-calculator/)** - A fully functional web calculator built with HTML, CSS, and JavaScript.
 - 🔐 **[Project 3: Password Generator](https://ambarmaheshwari04.github.io/password-generator/)** - A secure and stylish password generator built using HTML, CSS, and modern JavaScript.
--
-
+- ⏰ **[Project 4: Analog Clock](https://ambarmaheshwari04.github.io/analog-clock/)** - A sleek and responsive analog clock built using HTML, CSS, and modern JavaScript to display real-time hours, minutes, and seconds.
 ---
 
 ## 📫 Connect with me
