@@ -17,7 +17,7 @@
 - ⏰ **[Project 4: Analog Clock](https://ambarmaheshwari04.github.io/analog-clock/)** - A sleek and responsive analog clock built using HTML, CSS, and modern JavaScript to display real-time hours, minutes, and seconds.
 - ⏱️ **[Project 5: Stopwatch](https://ambarmaheshwari04.github.io/stopwatch/)** - A modern, sleek, and responsive digital stopwatch built using HTML, CSS, and JavaScript.
 - 📝 **[Project 6: To-Do List](https://ambarmaheshwari04.github.io/To-Do-list/)** - A dynamic task manager featuring a premium frosted-glass design and interactive action buttons.
-- - **[Project 7: QuickQR](https://ambarmaheshwari04.github.io/QR-code-generator/)** - A fast and minimalist utility to instantly generate high-quality QR codes from links or text.
+- **[Project 7: QR code generator](https://ambarmaheshwari04.github.io/QR-code-generator/)** - A fast and minimalist utility to instantly generate high-quality QR codes from links or text.
 -
 ---
 
