@@ -16,6 +16,8 @@
 - 🔐 **[Project 3: Password Generator](https://ambarmaheshwari04.github.io/password-generator/)** - A secure and stylish password generator built using HTML, CSS, and modern JavaScript.
 - ⏰ **[Project 4: Analog Clock](https://ambarmaheshwari04.github.io/analog-clock/)** - A sleek and responsive analog clock built using HTML, CSS, and modern JavaScript to display real-time hours, minutes, and seconds.
 - ⏱️ **[Project 5: Stopwatch](https://ambarmaheshwari04.github.io/stopwatch/)** - A modern, sleek, and responsive digital stopwatch built using HTML, CSS, and JavaScript.
+- 📝 **[Project 6: To-Do List]()** - A dynamic task manager featuring a premium frosted-glass design and interactive action buttons.
+-
 ---
 
 ## 📫 Connect with me
